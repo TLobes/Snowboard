@@ -6,6 +6,6 @@ Also it recognizes tricks (flips, rolls, nollies, jumps…) and its estimates it
 
 Authors
 
-Victor Shishkin - Hardware
-Karel Kuzmiak - Visualizations
-Timothy Lobes - Data
+* Victor Shishkin - Hardware
+* Karel Kuzmiak - Visualizations
+* Timothy Lobes - Data
